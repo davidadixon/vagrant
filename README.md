@@ -1,0 +1,2 @@
+# vagrant
+Base vagrant file
